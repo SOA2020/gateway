@@ -1,4 +1,3 @@
-conf.d/*.conf
 conf.d/*.crt
 conf.d/*.key
 conf.d/*.pem
